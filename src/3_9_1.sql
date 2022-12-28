@@ -1,0 +1,1 @@
+select ProductName, UnitsInStock from Products;
